@@ -1,7 +1,7 @@
 <template>
   <hello-world />
 
-  <p>Publishihng</p>
+  <p>Publishihng done</p>
 
 </template>
 
