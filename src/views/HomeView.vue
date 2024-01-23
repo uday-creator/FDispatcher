@@ -1,6 +1,6 @@
 <template>
   <hello-world />
-  <p>Testing branchesgdd</p>
+  <p>Testing new branch</p>
 </template>
 
 <script>
