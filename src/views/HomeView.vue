@@ -1,5 +1,6 @@
 <template>
   <hello-world />
+  <p>Hii</p>
 </template>
 
 <script>
