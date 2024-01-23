@@ -1,5 +1,6 @@
 <template>
   <hello-world />
+  <p>Testing branches</p>
 </template>
 
 <script>
